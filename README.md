@@ -16,44 +16,43 @@ Level 1:
 
 - Snake, when intersecting with each other, will be died
 
-- When the score reaches 20, move to level 2
+- When the score reaches 20, you move to level 2
 
  
 
 Level 2:
 
-Add the following points in stage 1:
 
 - Add mines on board apart from food at the random position where the snake is not present. Snake when touches mine, it will be killed
 
-- When the score reaches 40, move to level 3
+- When the score reaches 40, you move to level 3
 
  
 
 Level 3:
 
-Add the following points in stage 2:
+
 
 - Add multiple mines on board apart from food at the random position where the snake is not present. Snake when touches mine, it will be killed
 
-- When the score reaches 60, move to level 4
+- When the score reaches 60, you move to level 4
 
  
 
 Level 4:
 
-Add the following points in stage 3:
+
 
 - Restrict snake from passing through boundaries i.e. when it reaches boundary co-ordinate, it will be killed.
 
-- When the score reaches 80, move to level 5
+- When the score reaches 80, you move to level 5
 
  
 
 Level 5:
 
-Add the following points in stage 4:
+
 
 - Add 2 walls on the board, which can kill a snake when their co-ordinate gets matched
 
-- When the score reaches 100, display " You Win"
+- When the score reaches 100, "You Win!!!"
